@@ -29,13 +29,13 @@ pip install folium geopy scikit-learn pandas numpy
 
 ## 🗂 Estrutura do Projeto
 
-dengue-geoprofiling/
+dengue-perfil-geografico/
 │
-├── app.py                  # Código principal do projeto
-├── requirements.txt        # Dependências
+├── app.py # Código principal do projeto
+├── requirements.txt # Dependências
 ├── sample_data/
-│   └── casos_dengue.csv    # Exemplo de dataset de casos
-└── README.md               # Documentação do projeto
+│ └── casos_dengue.csv # Exemplo de dataset de casos
+└── README.md # Documentação do projeto
 
 ## 🚀 Como Usar
 
